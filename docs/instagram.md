@@ -37,14 +37,14 @@ P.S. Устанавливать шрифты не сложно, тут можн�
      type="text/html" src="https://www.youtube.com/embed?listType=playlist&list=PLh5_jWWTZhbKxKjg5jFOVWOsRPZeraTs0"
      frameborder="0">
  </iframe>
- 
- 1. Playlist with techniques to replace text in video (~20 mins). I advice to check it out it even if you have experience with video editing =)
+
+1. Playlist with techniques to replace text in video (~20 mins). I advice to check it out it even if you have experience with video editing =)
  <iframe
      class="player"
      type="text/html" src="https://www.youtube.com/embed?listType=playlist&list=PLh5_jWWTZhbJtM7l3JlsRALu9Vo-9Y6HZ"
      frameborder="0">
  </iframe>
- 
+
 1. Плейлист с примерами монтажа для Instagram.
  <iframe
      class="player"

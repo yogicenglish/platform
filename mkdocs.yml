@@ -35,7 +35,7 @@ extra:
           lang: ru
 
 extra_javascript:
-  - js/extra.js
+    - js/extra.js
 
 plugins:
     - search:
@@ -52,7 +52,8 @@ markdown_extensions:
 
 nav:
     - 'index.md'
+    - 'Theory.md'
+    - 'Vocabulary.md'
     - 'Уроки':
           - 'lessons/montage-apps.md'
           - 'lessons/text-translation-methods.md'
-    - 'facebook.md'

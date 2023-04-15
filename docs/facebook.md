@@ -17,7 +17,7 @@ none...
      src="https://www.youtube.com/embed?listType=playlist&list=PLh5_jWWTZhbKxKjg5jFOVWOsRPZeraTs0"
      frameborder="0">
  </iframe>
- 
+
 1. Подробное обучающее видео-пример монтожа квадрата в DaVinci для соцсетей.
  <iframe    
      class="player"
