@@ -28,6 +28,11 @@ if (getCookie('auth') === '') {
     setCookie('auth', 'false', 7);
 }
 
+if (getCookie('auth') !== 'true') {
+    if (window.location.pathname !== homePath + 'login/') {
+        window.location.pathname = homePath + 'login/';
+    }
+}
 
 /**
  * Returns a hash code from a string
