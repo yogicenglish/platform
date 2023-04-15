@@ -1,4 +1,4 @@
-site_name: Isha Video Editing
+site_name: Isha English
 site_url: https://alexfreik.github.io/isha-english/
 repo_url: https://github.com/AlexFreik/isha-english/
 
@@ -11,18 +11,19 @@ theme:
         - navigation.tabs
         - content.action.edit
         - content.action.view
+        - navigation.path
 
     palette:
         - media: '(prefers-color-scheme: light)' # Palette toggle for light mode
           scheme: default
-          primary: orange
+          primary: indigo
           toggle:
               icon: material/brightness-7
               name: Switch to dark mode
 
         - media: '(prefers-color-scheme: dark)' # Palette toggle for dark mode
           scheme: slate
-          primary: brown
+          primary: indigo
           toggle:
               icon: material/brightness-4
               name: Switch to light mode
@@ -32,6 +33,9 @@ extra:
         - name: Русский
           link: /isha-english/
           lang: ru
+
+extra_javascript:
+  - js/extra.js
 
 plugins:
     - search:
@@ -51,10 +55,4 @@ nav:
     - 'Уроки':
           - 'lessons/montage-apps.md'
           - 'lessons/text-translation-methods.md'
-          - 'lessons/translating-recomendations.md'
-          - 'lessons/general-advice.md'
-          - 'lessons/downloading-videos.md'
-          - 'lessons/tech-support.md'
-    - 'youtube.md'
     - 'facebook.md'
-    - 'instagram.md'

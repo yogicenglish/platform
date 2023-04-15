@@ -3,7 +3,7 @@ version: '3.8'
 services:
     docs:
         image: squidfunk/mkdocs-material
-        container_name: isha-montage-docs
+        container_name: isha-english
         volumes:
             - ${PWD}:/docs
         ports:
