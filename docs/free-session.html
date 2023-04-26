@@ -90,6 +90,7 @@
 					height: 500px;
 					background-size: auto 100%;
 					color: white;
+					overflow: hidden;
 				}
 
 				.left-column {
@@ -132,6 +133,7 @@
 				}
 
 				.button {
+					z-index: 1;
 					font-size: 20px;
 					font-weight: bold;
 					padding: 10px;
@@ -170,7 +172,7 @@
 						Understand Sadhgruru
 					</div>
 					<div class="description">
-						Learn Alex & Ronan's proven 5 step system to finally be
+						Learn Alex & Roman's proven 5 step system to finally be
 						able to speak and understand English even if you gave up
 						on learning english long ago.
 					</div>
@@ -187,46 +189,151 @@
 				</div>
 			</section>
 
-			<h1>Welcome to my page</h1>
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-				dignissim lectus in blandit dignissim. Quisque sodales
-				vestibulum pretium. Sed ac orci sit amet dolor fringilla luctus.
-				Integer tincidunt lorem vitae erat mollis, eu euismod magna
-				gravida. Aliquam semper venenatis magna, vel pellentesque libero
-				dapibus vel.
-			</p>
-			<h1>Welcome to my page</h1>
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-				dignissim lectus in blandit dignissim. Quisque sodales
-				vestibulum pretium. Sed ac orci sit amet dolor fringilla luctus.
-				Integer tincidunt lorem vitae erat mollis, eu euismod magna
-				gravida. Aliquam semper venenatis magna, vel pellentesque libero
-				dapibus vel.
-			</p>
-			<h1>Welcome to my page</h1>
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-				dignissim lectus in blandit dignissim. Quisque sodales
-				vestibulum pretium. Sed ac orci sit amet dolor fringilla luctus.
-				Integer tincidunt lorem vitae erat mollis, eu euismod magna
-				gravida. Aliquam semper venenatis magna, vel pellentesque libero
-				dapibus vel.
-			</p>
-			<h1>Welcome to my page</h1>
-			<p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-				dignissim lectus in blandit dignissim. Quisque sodales
-				vestibulum pretium. Sed ac orci sit amet dolor fringilla luctus.
-				Integer tincidunt lorem vitae erat mollis, eu euismod magna
-				gravida. Aliquam semper venenatis magna, vel pellentesque libero
-				dapibus vel.
-			</p>
+			<style>
+				.sh-divider {
+					display: flex;
+					justify-content: center;
+					align-items: center;
+					margin: 30px 0;
+				}
+
+				.sh-divider img {
+					max-width: 100%;
+					max-height: 100%;
+				}
+			</style>
+
+			<div class="sh-divider">
+				<img src="./img/spandahall-banner.svg" alt="sh-divider" />
+			</div>
+
+			<style>
+				.testimonials {
+					background-color: #f7f7f7;
+					padding: 50px 0;
+					text-align: center;
+				}
+
+				.testimonials-header {
+					text-align: center;
+					margin-bottom: 30px;
+				}
+
+				.testimonials-boxes {
+					margin-top: 20px;
+				}
+
+				.testimonial-box {
+					background-color: #fff;
+					border-radius: 10px;
+					box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+					margin: 10px;
+					padding: 20px;
+					text-align: center;
+					display: inline-block;
+					width: 25%;
+				}
+
+				.testimonial-box .testimonial-photo {
+					border-radius: 50%;
+					width: 70px;
+					height: 70px;
+					object-fit: cover;
+					margin-bottom: 10px;
+					margin-top: -45px;
+				}
+
+				.testimonial-box .testimonial-text {
+					font-size: 14px;
+					line-height: 1.5;
+					margin-bottom: 10px;
+				}
+
+				.testimonial-box .testimonial-name {
+					font-size: 16px;
+					font-weight: bold;
+				}
+
+				@media (max-width: 768px) {
+					.testimonial-box {
+						width: 80%;
+					}
+				}
+			</style>
+
+			<section class="testimonials">
+				<h2 class="testimonials-header">Testimonials</h2>
+				<img src="./img/divider-yoga.svg" alt="sh-divider" />
+				<div class="testimonials-boxes">
+					<div class="testimonial-box">
+						<img
+							src="./img/default-pp.jpeg"
+							alt="Person 1"
+							class="testimonial-photo"
+						/>
+						<p class="testimonial-text">
+							Lorem ipsum dolor sit amet, consectetur adipiscing
+							elit. Fusce nec tellus a nunc ultrices tempus. In
+							placerat rutrum porta. Nulla scelerisque, nisi nec
+							congue facilisis, magna leo blandit lacus, ut cursus
+							arcu velit nec elit.
+						</p>
+						<p class="testimonial-name">John Smith</p>
+					</div>
+					<div class="testimonial-box">
+						<img
+							src="./img/default-pp.jpeg"
+							alt="Person 2"
+							class="testimonial-photo"
+						/>
+						<p class="testimonial-text">
+							Morbi vitae justo efficitur, cursus ipsum non,
+							lacinia nibh. Suspendisse ultrices vehicula commodo.
+							Cras interdum libero eget quam rhoncus, vel commodo
+							mauris volutpat.
+						</p>
+						<p class="testimonial-name">Jane Doe</p>
+					</div>
+					<div class="testimonial-box">
+						<img
+							src="./img/default-pp.jpeg"
+							alt="Person 3"
+							class="testimonial-photo"
+						/>
+						<p class="testimonial-text">
+							Vestibulum efficitur massa et sapien aliquet
+							lobortis sed a leo. Sed luctus consequat nulla, vel
+							pharetra justo hendrerit quis. Fusce sem urna,
+							fringilla quis eleifend id, bibendum vel risus.
+						</p>
+						<p class="testimonial-name">Bob Johnson</p>
+					</div>
+				</div>
+			</section>
 		</main>
 
-		<footer>
-			<p>&copy; 2021 My Company</p>
+		<style>
+			footer a {
+				color: #cf4824;
+			}
+			.flying-yogi {
+				max-width: 100%;
+				margin-bottom: -5px;
+			}
+		</style>
+
+		<img
+			src="./img/footer-flying-yogi.avif"
+			alt="sh-divider"
+			class="flying-yogi"
+		/>
+		<footer style="background-color: #28231e; padding: 20px">
+			<div style="color: #fff; text-align: center">
+				<p>&copy; 2023 Isha English. All rights reserved.</p>
+				<p>
+					Telegram: <a href="http://t.me/IshaEnglish">@IshaEnglish</a>
+				</p>
+			</div>
 		</footer>
 	</body>
 </html>
