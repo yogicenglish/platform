@@ -156,8 +156,15 @@ header {
 }
 .iframe-container {
 	text-align: center;
-	width: 100%;
+	max-width: 800px;
+	margin: 0 auto;
 	background-color: #fcf9f3;
+}
+
+@media screen and (max-width: 750px) {
+    iframe {
+        max-width: 100% !important;
+    }
 }
 
 /* testimonials */
