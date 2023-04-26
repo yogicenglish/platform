@@ -215,6 +215,7 @@
 				}
 
 				.testimonials-header {
+					color: #02026b;
 					text-align: center;
 					margin-bottom: 30px;
 				}
@@ -263,7 +264,7 @@
 
 			<section class="testimonials">
 				<h2 class="testimonials-header">Testimonials</h2>
-				<img src="./img/divider-yoga.svg" alt="sh-divider" />
+				<img src="./img/divider-yoga.svg" alt="divider" />
 				<div class="testimonials-boxes">
 					<div class="testimonial-box">
 						<img
@@ -310,23 +311,163 @@
 					</div>
 				</div>
 			</section>
+
+			<style>
+				.faq {
+					text-align: center;
+				}
+				.faq-header {
+					font-size: 42px;
+					padding: 24px;
+				}
+
+				.faq-content {
+					text-align: left;
+					overflow-x: hidden;
+					margin: 0 20px;
+				}
+
+				.faq-question {
+					padding: 10px 0;
+					margin: 10px 0;
+					border-bottom: 1px dotted #ccc;
+				}
+
+				.panel-title {
+					font-size: 24px;
+					width: 100%;
+					position: relative;
+					margin: 0;
+					padding: 10px 10px 0 48px;
+					display: block;
+					cursor: pointer;
+				}
+
+				.panel-content {
+					font-size: 20px;
+					padding: 0px 14px;
+					margin: 0 40px;
+					height: 0;
+					overflow: hidden;
+					z-index: 0;
+					position: relative;
+					opacity: 0;
+					-webkit-transition: 0.4s ease;
+					-moz-transition: 0.4s ease;
+					-o-transition: 0.4s ease;
+					transition: 0.4s ease;
+				}
+
+				.panel:checked ~ .panel-content {
+					height: auto;
+					opacity: 1;
+					padding: 14px;
+				}
+
+				.plus {
+					color: #cf4520;
+					position: absolute;
+					margin-left: 20px;
+					margin-top: 4px;
+					z-index: 5;
+					font-size: 35px;
+					line-height: 100%;
+					-webkit-user-select: none;
+					-moz-user-select: none;
+					-ms-user-select: none;
+					-o-user-select: none;
+					user-select: none;
+					-webkit-transition: 0.2s ease;
+					-moz-transition: 0.2s ease;
+					-o-transition: 0.2s ease;
+					transition: 0.2s ease;
+				}
+
+				.panel:checked ~ .plus {
+					-webkit-transform: rotate(45deg);
+					-moz-transform: rotate(45deg);
+					-o-transform: rotate(45deg);
+					transform: rotate(45deg);
+				}
+
+				.panel {
+					display: none;
+				}
+			</style>
+
+			<section class="faq">
+				<div class="faq-header">Frequently Asked Questions</div>
+				<img src="./img/divider2.svg" alt="divider" />
+
+				<div class="faq-content">
+					<div class="faq-question">
+						<input id="q1" type="checkbox" class="panel" />
+						<div class="plus">+</div>
+						<label for="q1" class="panel-title"
+							>What is the meaning of life?</label
+						>
+						<div class="panel-content">42</div>
+					</div>
+
+					<div class="faq-question">
+						<input id="q2" type="checkbox" class="panel" />
+						<div class="plus">+</div>
+						<label for="q2" class="panel-title"
+							>How much wood would a woodchuck chuck?</label
+						>
+						<div class="panel-content">
+							A woodchuck would chuck all the wood he could chuck,
+							if a woodchuck could chuck wood!
+						</div>
+					</div>
+
+					<div class="faq-question">
+						<input id="q3" type="checkbox" class="panel" />
+						<div class="plus">+</div>
+						<label for="q3" class="panel-title"
+							>What happens if Pinocchio says, "my nose will grow
+							now"?</label
+						>
+						<div class="panel-content">
+							Certain questions are better left &nbsp;
+							<a
+								href="https://en.wikipedia.org/wiki/The_Unanswered_Question"
+								target="_blank"
+								>unanswered</a
+							>
+						</div>
+					</div>
+				</div>
+			</section>
 		</main>
 
 		<style>
 			footer a {
 				color: #cf4824;
 			}
+
 			.flying-yogi {
+				min-height: 50px;
+				overflow: hidden;
+				/* Magic */
+				display: flex;
+				align-items: center; /* vertical */
+				justify-content: center; /* horizontal */
+			}
+			.flying-yogi img {
 				max-width: 100%;
-				margin-bottom: -5px;
+			}
+			@media only screen and (max-width: 1000px) {
+				.flying-yogi img {
+					max-width: none;
+					height: 50px;
+				}
 			}
 		</style>
 
-		<img
-			src="./img/footer-flying-yogi.avif"
-			alt="sh-divider"
-			class="flying-yogi"
-		/>
+		<div class="flying-yogi">
+			<img src="./img/footer-flying-yogi.avif" alt="sh-divider" />
+		</div>
 		<footer style="background-color: #28231e; padding: 20px">
 			<div style="color: #fff; text-align: center">
 				<p>&copy; 2023 Isha English. All rights reserved.</p>
