@@ -3,5 +3,5 @@
 pretty:
 	npx prettier --write .
 
-run:
+dev:
 	docker-compose up

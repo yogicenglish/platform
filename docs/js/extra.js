@@ -1,4 +1,4 @@
-const homePath = '/isha-english/';
+const homePath = '/';
 
 function setCookie(name, value, days) {
 	var expires = '';
