@@ -60,3 +60,8 @@ function tryLogin(email) {
 	}
 	return false;
 }
+
+document.body.innerHTML = document.body.innerHTML.replaceAll(
+	'___',
+	'<span class="fill" contenteditable="true"></span>',
+);

@@ -1,5 +1,16 @@
 .fill {
-    color: #222;
-    border: 1px solid grey;
-    width:auto;
+	border: 1px solid grey;
+	border-radius: 7px;
+	padding: 0 5px;
+}
+
+span.fill[contenteditable]:empty::before {
+	content: ' . . . ';
+	text-align: center;
+	min-width: 50px;
+	display: inline-block;
+}
+
+details {
+	font-size: 16px !important;
 }

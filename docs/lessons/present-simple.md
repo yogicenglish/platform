@@ -46,24 +46,33 @@ Do используется в вопросах с местоимениями I,
 -   Do you like ...?
 -   Do you know ...?
 
-## Exercises 1
+### Exercises 1: Do / Does
 
-Давайте попробуем сделать задание чтобы закрепить материал:
+Давайте попробуем сделать задание чтобы закрепить материал.
 
-Выберите Do или does для следующих предложений;:
+??? "Exercise 1: Do / Does"
 
-2. A: Do/ Does you live in a house or a flat?  
-   B: I live in a flat in London, near my college.
-1. A: Do/ Does you live alone?  
-   B: No, I don't. I share the flat with my brother.
-1. A: Do/ Does he go to the same college as you?  
-   B: No, he's a bit older than me. He's got a job.
-1. A: Do/ Does you work at the weekend?  
-   B: Yes, I work in a café on Saturday and Sunday mornings.
-1. A: Do/ Does you have a girlfriend at the moment?  
-   B: I do! Her name's Adele.
-1. A: Do/ Does she come from London?  
-   B: No. She's from Scotland but she came here to study.
+    Выберите Do или does для следующих предложений:
+
+    1. A: `Do/Does` you live in a house or a flat?
+       B: I live in a flat in London, near my college.
+       <details>Do</details>
+    1. A: `Do/Does` you live alone?
+       B: No, I don't. I share the flat with my brother.
+    1. A: `Do/Does` he go to the same college as you?
+       B: No, he's a bit older than me. He's got a job.
+       <details>Does</details>
+    1. A: `Do/Does` you work at the weekend?
+       B: Yes, I work in a café on Saturday and Sunday mornings.
+       <details>Do</details>
+    1. A: `Do/Does` you have a girlfriend at the moment?
+       B: I do! Her name's Adele.
+       <details>Do</details>
+    1. A: `Do/Does` she come from London?
+       B: No. She's from Scotland but she came here to study.
+       <details>Does</details>
+
+## Отрицания
 
 Теперь предлагаю взглянуть на то как используются отрицания:
 
@@ -98,54 +107,59 @@ Doesn‘t используется для третьего лица единст
 -   I sometimes go to the cinema.
 -   She never plays football.
 
-## Exercises 2
+### Exercises 2
 
-Давайте попробуем заполнить эти предложения:
+??? "Exercise 2"
 
--   My name is ...
--   I'm ... years old.
--   I come from ... .
--   I live in ...  .
--   I'm a(n) ... .
--   I ... at the weekend.
--   I often ... .
--   I never ... .
+    Давайте попробуем заполнить эти предложения:
 
-Могли бы вы также поговорить о вашем друге/ подруге / любом другом близком человеке
+    -   My name is ___ .
+    -   I'm ___ years old.
+    -   I come from ___ .
+    -   I live in ___ .
+    -   I'm a(n) ___ .
+    -   I ___ at the weekend.
+    -   I often ___ .
+    -   I never ___ .
 
--   Her/His name is … .
--   She's/He's … years old.
--   She/He comes from … .
--   She/He lives in … .
--   She's/He's a(n) … .
--   She/He … at the weekend.
--   She/He often … .
--   She/He never … .
+    Могли бы вы также поговорить о вашем друге/ подруге / любом другом близком человеке
+
+    -   Her/His name is ___ .
+    -   She's/He's ___ years old.
+    -   She/He comes from ___ .
+    -   She/He lives in ___ .
+    -   She's/He's a(n) ___ .
+    -   She/He … at the weekend.
+    -   She/He often ___ .
+    -   She/He never ___ .
 
 ## INTERMEDIATE
 
 Также мы используем present simple, чтобы указать на то, что:
 
 -   Что-то точно должно случиться в будущем:
-    
+
     The school term starts next week.  
     The train leaves at 19.45 this evening.  
-    We fly to Paris next week.  
+    We fly to Paris next week.
 
 -   О чем-то в будущем после слов времени, таких как when, after and before и после if (если) и unless (если не/ разве что):
-    
+
     I'll talk to John when I see him.  
     You must finish your work before you go home.  
     If it rains we'll get wet.  
-    He won't come unless you ask him.  
+    He won't come unless you ask him.
 
 Давайте посмотрим на цитату от Садхгуру:
 
-> “If you resist change, you resist life.”  
-– Sadhguru
+???+ quote
+“If you resist change, you resist life.”  
+ – Sadhguru
 
 ## Exercises 3
 
-Могли бы вы попробовать объяснить её простыми словами, используя present simple?
+??? "Exercise 3"
 
-Готовы побеседовать на английском используя present simple на тему «Для чего мне нужен английский?»
+    Могли бы вы попробовать объяснить её простыми словами, используя present simple?
+
+    Готовы побеседовать на английском используя present simple на тему «Для чего мне нужен английский?»
