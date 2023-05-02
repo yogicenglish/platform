@@ -54,24 +54,24 @@ Do используется в вопросах с местоимениями I,
 
     Выберите Do или does для следующих предложений:
 
-    1. A: `Do/Does` you live in a house or a flat?
-       B: I live in a flat in London, near my college.
-       <details>Do</details>
+    1. A: `Do/Does` you live in a house or a flat? <br>
+       B: I live in a flat in London, near my college. <br>
+       {{ ans Do }}
     1. A: `Do/Does` you live alone?
-       B: No, I don't. I share the flat with my brother.
-       <details>Do</details>
-    1. A: `Do/Does` he go to the same college as you?
-       B: No, he's a bit older than me. He's got a job.
-       <details>Does</details>
-    1. A: `Do/Does` you work at the weekend?
-       B: Yes, I work in a café on Saturday and Sunday mornings.
-       <details>Do</details>
-    1. A: `Do/Does` you have a girlfriend at the moment?
-       B: I do! Her name's Adele.
-       <details>Do</details>
-    1. A: `Do/Does` she come from London?
-       B: No. She's from Scotland but she came here to study.
-       <details>Does</details>
+       B: No, I don't. I share the flat with my brother. <br>
+       {{ ans Do }}
+    1. A: `Do/Does` he go to the same college as you? <br>
+       B: No, he's a bit older than me. He's got a job. <br>
+       {{ ans Does }}
+    1. A: `Do/Does` you work at the weekend? <br>
+       B: Yes, I work in a café on Saturday and Sunday mornings. <br>
+       {{ ans Do }}
+    1. A: `Do/Does` you have a girlfriend at the moment? <br>
+       B: I do! Her name's Adele. <br>
+       {{ ans Do }}
+    1. A: `Do/Does` she come from London? <br>
+       B: No. She's from Scotland but she came here to study. <br>
+       {{ ans Does }}
 
 ## Отрицания
 
@@ -155,7 +155,7 @@ Doesn‘t используется для третьего лица единст
 
 ???+ quote
 
-    “If you resist change, you resist life.”
+    “If you resist change, you resist life.” <br>
     – Sadhguru
 
 ## Exercises 3

@@ -61,7 +61,14 @@ function tryLogin(email) {
 	return false;
 }
 
-document.body.innerHTML = document.body.innerHTML.replaceAll(
+const mdContent = document.getElementsByClassName('md-content')[0];
+mdContent.innerHTML = mdContent.innerHTML.replaceAll(
 	'___',
 	'<span class="fill" contenteditable="true"></span>',
+);
+
+const reg = /\{\{ ans (.[^}]*) \}\}/g;
+mdContent.innerHTML = mdContent.innerHTML.replace(
+	reg,
+	"<b>Answer</b>: <span class='answer'>$1</span>",
 );

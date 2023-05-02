@@ -31,7 +31,7 @@ theme:
 extra:
     alternate:
         - name: Русский
-          link: /isha-english/
+          link: /
           lang: ru
 
 extra_javascript:

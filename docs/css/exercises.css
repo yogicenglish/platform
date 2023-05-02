@@ -14,3 +14,19 @@ span.fill[contenteditable]:empty::before {
 details {
 	font-size: 16px !important;
 }
+
+.answer {
+	background-color: gray;
+	color: transparent;
+	border-radius: 7px;
+	user-select: none;
+	display: inline-block;
+	min-width: 50px;
+}
+
+.answer::before {
+}
+.answer:hover {
+	background-color: inherit;
+	color: inherit;
+}
