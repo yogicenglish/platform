@@ -1,3 +1,3 @@
-# Present Continious
+# Present Continuous
 
 Сегодня изучим время Present Continuous, сделаем для него несколько грамматических заданий и поговорим на интересную тему.
