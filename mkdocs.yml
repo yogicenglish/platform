@@ -37,6 +37,9 @@ extra:
 extra_javascript:
     - js/extra.js
 
+extra_css:
+    - css/exercises.css
+
 plugins:
     - search:
           lang: ru # Set language for search
@@ -51,9 +54,10 @@ markdown_extensions:
     - md_in_html
 
 nav:
-    - 'index.md'
-    - 'Theory.md'
-    - 'Vocabulary.md'
+    - Home: 'index.md'
     - 'Уроки':
+          - 'lessons/present-simple.md'
           - 'lessons/montage-apps.md'
           - 'lessons/text-translation-methods.md'
+    - 'Theory.md'
+    - 'Vocabulary.md'
