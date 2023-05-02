@@ -59,6 +59,7 @@ Do используется в вопросах с местоимениями I,
        <details>Do</details>
     1. A: `Do/Does` you live alone?
        B: No, I don't. I share the flat with my brother.
+       <details>Do</details>
     1. A: `Do/Does` he go to the same college as you?
        B: No, he's a bit older than me. He's got a job.
        <details>Does</details>
@@ -153,8 +154,9 @@ Doesn‘t используется для третьего лица единст
 Давайте посмотрим на цитату от Садхгуру:
 
 ???+ quote
-“If you resist change, you resist life.”  
- – Sadhguru
+
+    “If you resist change, you resist life.”
+    – Sadhguru
 
 ## Exercises 3
 

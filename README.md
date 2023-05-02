@@ -8,7 +8,7 @@ https://www.markdownguide.org/cheat-sheet/
 
 ## Plugins
 
--   Details: https://facelessuser.github.io/pymdown-extensions/extensions/details/  
+-   Details: https://facelessuser.github.io/pymdown-extensions/extensions/details/
 
 ## Run
 
