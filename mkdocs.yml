@@ -36,9 +36,11 @@ extra:
 
 extra_javascript:
     - js/extra.js
+    - js/lite-yt-embed.js
 
 extra_css:
     - css/exercises.css
+    - css/lite-yt-embed.css
 
 plugins:
     - search:
