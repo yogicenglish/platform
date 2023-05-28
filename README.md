@@ -6,6 +6,10 @@
 
 https://www.markdownguide.org/cheat-sheet/
 
+## More Documentaiton
+
+https://squidfunk.github.io/mkdocs-material/reference/
+
 ## Plugins
 
 -   Details: https://facelessuser.github.io/pymdown-extensions/extensions/details/
