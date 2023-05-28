@@ -57,37 +57,17 @@ I didn't want to get involved in the argument.
 ## Exercise 1
 ???+ "Exercise 1: Grammar task"
 
-    1. She's interested ___ (about / in / on) buying the flat. {{ ans in }}
-    1. I'm a bit nervous ___ (about / of / to) going somewhere so different. {{ ans about }}
-    1. The activities will be similar ___ (at / to / with) what we did last year. {{ ans to }}
-
-    He wants to be involved ___ making the decision.
-    about
-    in
-    on
-
-    She's angry ___ not being invited to the dinner.
-    about
-    for
-    of
-
-    You're good ___ talking to big groups of people.
-    at
-    in
-    to
-
-    Eating a lot of red meat is not good ___ you.
-    at
-    for
-    on
-
-    I'm afraid ___ flying.
-    of
-    to
-    with
+1. She's interested ___ (about / in / on) buying the flat. {{ ans in }}
+1. I'm a bit nervous ___ (about / of / to) going somewhere so different. {{ ans about }}
+1. The activities will be similar ___ (at / to / with) what we did last year. {{ ans to }}
+1. He wants to be involved ___ (about / in / on) making the decision. {{ ans in }}
+1. She's angry ___ (about / for / of) not being invited to the dinner. {{ ans about }}
+1. You're good ___ (at / in / to) talking to big groups of people. {{ ans at }}
+1. Eating a lot of red meat is not good ___ (at / for / on) you. {{ ans for }}
+1. I'm afraid ___ (of / to / with) flying. {{ ans of }}
 
 ## Exercise 2
-???+ "Exercise 1: Grammar task"
+???+ "Exercise 2: Watching a video"
 
     Сейчас предлагаю отложить в сторону present continuous и попробовать разобрать кратенькое видео Садхгуру с английскими субтитрами
 
