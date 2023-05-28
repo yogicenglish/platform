@@ -4,9 +4,9 @@
 
 ## Links
 
-- Markdown docs: https://www.markdownguide.org/cheat-sheet/
-- More specific docs: https://squidfunk.github.io/mkdocs-material/reference/
-- Mardkown table generator: https://www.tablesgenerator.com/markdown_tables
+-   Markdown docs: https://www.markdownguide.org/cheat-sheet/
+-   More specific docs: https://squidfunk.github.io/mkdocs-material/reference/
+-   Mardkown table generator: https://www.tablesgenerator.com/markdown_tables
 
 ## Plugins
 

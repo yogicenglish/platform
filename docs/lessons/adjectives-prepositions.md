@@ -1,6 +1,6 @@
-# Adjectives & prepositions
+# Adjectives & Prepositions
 
-Знаете ли вы, как использовать прилагательные с предлогами типа "interested in" или "similar to"? 
+Знаете ли вы, как использовать прилагательные с предлогами типа "interested in" или "similar to"?
 
 Давайте посмотрим на эти примеры, чтобы увидеть, как прилагательные используются с предлогами.
 
@@ -15,14 +15,14 @@
 
     Однако есть несколько шаблонов, которые могут вам помочь. Давайте сначала посмотрим на них. Помните, что за предлогом следует существительное или герундий (форма-ing).
 
-|  | Explanation | Examples |
-|---|---|---|
-| at | Мы используем at с такими прилагательными, <br>как good/bad/amazing/brilliant/terrible, <br>и т.д.,чтобы говорить о навыках и умениях. | He's really good at English.<br>She's amazing at the piano.<br>They're terrible at organising anything.<br>I'm not very good at drawing. |
-| about | Мы часто используем "about” с прилагательными, <br>описывающими чувства, такими как ..., <br>чтобы объяснить, что вызывает это чувство. | I'm angry about the decision.<br>He's nervous about the presentation.<br>She's excited about the new job.<br>They were worried about the exam. |
-| of | Однако, иногда мы используем “of”, <br>чтобы говорить о чувствах. | She was afraid of telling her mum.<br>I'm frightened of having an accident.<br>He's scared of flying.<br>You should be proud of your progress. |
-| to | Мы можем использовать to, чтобы показать <br>связь между людьми или вещами. | He's married to the director.<br>I'm addicted to my phone.<br>I'm allergic to nuts.<br>It's similar to the old one. |
-| for |  | Exercise is good for you.<br>Stress is bad for you.<br>The town is famous for its cheese.<br>I'm responsible for the financial side of the business. |
-| in |  | She's interested in the project.<br>They want someone who's experienced in design.<br>I didn't want to get involved in the argument. |
+|       | Explanation                                                                                                                             | Examples                                                                                                                                             |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| at    | Мы используем at с такими прилагательными, <br>как good/bad/amazing/brilliant/terrible, <br>и т.д.,чтобы говорить о навыках и умениях.  | He's really good at English.<br>She's amazing at the piano.<br>They're terrible at organising anything.<br>I'm not very good at drawing.             |
+| about | Мы часто используем "about” с прилагательными, <br>описывающими чувства, такими как ..., <br>чтобы объяснить, что вызывает это чувство. | I'm angry about the decision.<br>He's nervous about the presentation.<br>She's excited about the new job.<br>They were worried about the exam.       |
+| of    | Однако, иногда мы используем “of”, <br>чтобы говорить о чувствах.                                                                       | She was afraid of telling her mum.<br>I'm frightened of having an accident.<br>He's scared of flying.<br>You should be proud of your progress.       |
+| to    | Мы можем использовать to, чтобы показать <br>связь между людьми или вещами.                                                             | He's married to the director.<br>I'm addicted to my phone.<br>I'm allergic to nuts.<br>It's similar to the old one.                                  |
+| for   |                                                                                                                                         | Exercise is good for you.<br>Stress is bad for you.<br>The town is famous for its cheese.<br>I'm responsible for the financial side of the business. |
+| in    |                                                                                                                                         | She's interested in the project.<br>They want someone who's experienced in design.<br>I didn't want to get involved in the argument.                 |
 
 С “of”:
 
@@ -51,24 +51,25 @@ I'm responsible for the financial side of the business.
 
 С “in”:
 
-
 She's interested in the project.
 They want someone who's experienced in design.
 I didn't want to get involved in the argument.
 
 ## Exercise 1
+
 ???+ "Exercise 1: Grammar task"
 
-1. She's interested ___ (about / in / on) buying the flat. {{ ans in }}
-1. I'm a bit nervous ___ (about / of / to) going somewhere so different. {{ ans about }}
-1. The activities will be similar ___ (at / to / with) what we did last year. {{ ans to }}
-1. He wants to be involved ___ (about / in / on) making the decision. {{ ans in }}
-1. She's angry ___ (about / for / of) not being invited to the dinner. {{ ans about }}
-1. You're good ___ (at / in / to) talking to big groups of people. {{ ans at }}
-1. Eating a lot of red meat is not good ___ (at / for / on) you. {{ ans for }}
-1. I'm afraid ___ (of / to / with) flying. {{ ans of }}
+1. She's interested \_\_\_ (about / in / on) buying the flat. {{ ans in }}
+1. I'm a bit nervous \_\_\_ (about / of / to) going somewhere so different. {{ ans about }}
+1. The activities will be similar \_\_\_ (at / to / with) what we did last year. {{ ans to }}
+1. He wants to be involved \_\_\_ (about / in / on) making the decision. {{ ans in }}
+1. She's angry \_\_\_ (about / for / of) not being invited to the dinner. {{ ans about }}
+1. You're good \_\_\_ (at / in / to) talking to big groups of people. {{ ans at }}
+1. Eating a lot of red meat is not good \_\_\_ (at / for / on) you. {{ ans for }}
+1. I'm afraid \_\_\_ (of / to / with) flying. {{ ans of }}
 
 ## Exercise 2
+
 ???+ "Exercise 2: Watching a video"
 
     Сейчас предлагаю отложить в сторону present continuous и попробовать разобрать кратенькое видео Садхгуру с английскими субтитрами
