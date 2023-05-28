@@ -2,13 +2,11 @@
 
 [![example workflow](https://github.com/AlexFreik/isha-english/actions/workflows/ci.yml/badge.svg)](https://platform.ishaenglish.com/)
 
-## Markdown Cheatsheet
+## Links
 
-https://www.markdownguide.org/cheat-sheet/
-
-## More Documentaiton
-
-https://squidfunk.github.io/mkdocs-material/reference/
+- Markdown docs: https://www.markdownguide.org/cheat-sheet/
+- More specific docs: https://squidfunk.github.io/mkdocs-material/reference/
+- Mardkown table generator: https://www.tablesgenerator.com/markdown_tables
 
 ## Plugins
 
