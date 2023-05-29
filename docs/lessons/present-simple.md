@@ -1,4 +1,4 @@
-# PRESENT SIMPLE
+# Present Simple
 
 ## Structure
 

@@ -2,8 +2,8 @@
 
 ## Beginner
 
-1. Present simple
-1. Present continuous
+1. [Present simple](/lessons/present-simple/)
+1. [Present continuous](/lessons/present-continuous/)
 1. Adverbs of frequency
 1. Defining and non-defining relative clauses
 1. Past simple and irregular verbs
