@@ -1,4 +1,4 @@
-site_name: Isha English
+site_name: Yogic English
 site_url: https://platform.ishaenglish.com/
 repo_url: https://github.com/AlexFreik/isha-english/
 
@@ -12,6 +12,7 @@ theme:
         - content.action.edit
         - content.action.view
         - navigation.path
+        - navigation.top
 
     palette:
         - media: '(prefers-color-scheme: light)' # Palette toggle for light mode
@@ -28,11 +29,12 @@ theme:
               icon: material/brightness-4
               name: Switch to light mode
 
-extra:
-    alternate:
-        - name: Русский
-          link: /
-          lang: ru
+# Language Switch
+# extra:
+#     alternate:
+#         - name: Русский
+#           link: /
+#           lang: ru
 
 extra_javascript:
     - js/extra.js
@@ -58,9 +60,11 @@ markdown_extensions:
 
 nav:
     - Home: 'index.md'
-    - 'Уроки':
+    - 'Lessons':
           - 'lessons/present-simple.md'
           - 'lessons/present-continuous.md'
           - 'lessons/adjectives-prepositions.md'
+    - 'Blog':
+          - 'blog/posts/grammar-topics.md'
     - 'Theory.md'
     - 'Vocabulary.md'

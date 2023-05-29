@@ -30,7 +30,10 @@ if (getCookie('auth') === '') {
 }
 
 if (getCookie('auth') !== 'true') {
-	if (window.location.pathname !== homePath + 'login/') {
+	if (
+		window.location.pathname !== homePath + 'login/' &&
+		!window.location.pathname.startsWith(homePath + 'blog/')
+	) {
 		window.location.pathname = homePath + 'login/';
 	}
 }

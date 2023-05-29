@@ -51,9 +51,10 @@ label {
 	margin-bottom: 5px;
 }
 
-input[type="text"],
-input[type="password"] {
-color: #222;
+.login input[type="text"],
+.login input[type="password"] {
+    color: #222;
+	background-color: #fff;
 	padding: 10px;
 	border-radius: 5px;
 	margin-bottom: 20px;
