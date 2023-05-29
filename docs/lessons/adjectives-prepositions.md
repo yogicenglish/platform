@@ -24,7 +24,6 @@
 | for   |                                                                                                                                         | Exercise is good for you.<br>Stress is bad for you.<br>The town is famous for its cheese.<br>I'm responsible for the financial side of the business. |
 | in    |                                                                                                                                         | She's interested in the project.<br>They want someone who's experienced in design.<br>I didn't want to get involved in the argument.                 |
 
-
 ## Exercise 1
 
 ???+ "Exercise 1: Grammar task"
