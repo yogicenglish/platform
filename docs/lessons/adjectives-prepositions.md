@@ -24,36 +24,6 @@
 | for   |                                                                                                                                         | Exercise is good for you.<br>Stress is bad for you.<br>The town is famous for its cheese.<br>I'm responsible for the financial side of the business. |
 | in    |                                                                                                                                         | She's interested in the project.<br>They want someone who's experienced in design.<br>I didn't want to get involved in the argument.                 |
 
-С “of”:
-
-Однако, иногда мы используем “of”, чтобы говорить о чувствах
-
-She was afraid of telling her mum.
-I'm frightened of having an accident.
-He's scared of flying.
-You should be proud of your progress.
-
-С “to”:
-
-Мы можем использовать to, чтобы показать связь между людьми или вещами.
-
-He's married to the director.
-I'm addicted to my phone.
-I'm allergic to nuts.
-It's similar to the old one.
-
-С “for”:
-
-Exercise is good for you.
-Stress is bad for you.
-The town is famous for its cheese.
-I'm responsible for the financial side of the business.
-
-С “in”:
-
-She's interested in the project.
-They want someone who's experienced in design.
-I didn't want to get involved in the argument.
 
 ## Exercise 1
 
