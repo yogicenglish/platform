@@ -7,6 +7,7 @@
 -   Markdown docs: https://www.markdownguide.org/cheat-sheet/
 -   More specific docs: https://squidfunk.github.io/mkdocs-material/reference/
 -   Mardkown table generator: https://www.tablesgenerator.com/markdown_tables
+-   Adding new lesson tutorial: https://youtu.be/GRgtjucPHe8
 
 ## Plugins
 
