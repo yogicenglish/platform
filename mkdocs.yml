@@ -67,15 +67,15 @@ markdown_extensions:
     - md_in_html
 
 nav:
-    - Home: 'index.md'
-    - 'Lessons':
+    - 'Главная': 'index.md'
+    - 'Grammar Lessons':
           - 'lessons/present-simple.md'
           - 'lessons/present-continuous.md'
           - 'lessons/adjectives-prepositions.md'
     - 'Vocabulary':
           - 'vocabulary/feelings.md'
           - 'vocabulary/food.md'
-    - 'Blog':
+    - 'Блог':
           - 'blog/grammar-topics.md'
           - 'blog/tools.md'
 
