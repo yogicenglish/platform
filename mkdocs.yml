@@ -6,6 +6,9 @@ theme:
     name: material
     language: ru # The build's language
 
+    logo: img/isha-logo.png
+    favicon: img/isha-logo.png
+
     features:
         - navigation.tracking
         - navigation.tabs
