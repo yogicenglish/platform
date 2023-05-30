@@ -72,11 +72,11 @@ nav:
           - 'lessons/present-simple.md'
           - 'lessons/present-continuous.md'
           - 'lessons/adjectives-prepositions.md'
-    - 'Blog':
-          - 'blog/grammar-topics.md'
-          - 'blog/tools.md'
     - 'Vocabulary':
           - 'vocabulary/feelings.md'
           - 'vocabulary/food.md'
+    - 'Blog':
+          - 'blog/grammar-topics.md'
+          - 'blog/tools.md'
 
 copyright: Copyright &copy; 2023 Yogic English
