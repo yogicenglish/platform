@@ -70,8 +70,10 @@ nav:
           - 'lessons/present-continuous.md'
           - 'lessons/adjectives-prepositions.md'
     - 'Blog':
-          - 'blog/posts/grammar-topics.md'
-    - 'Theory.md'
-    - 'Vocabulary.md'
+          - 'blog/grammar-topics.md'
+          - 'blog/tools.md'
+    - 'Vocabulary':
+          - 'vocabulary/feelings.md'
+          - 'vocabulary/food.md'
 
 copyright: Copyright &copy; 2023 Yogic English
