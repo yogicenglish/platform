@@ -28,13 +28,13 @@
 
 ???+ "Exercise 1: Grammar task"
 
-1. She's interested \_\_\_ (about / in / on) buying the flat. {{ ans in }}
+1. She's interested \_\_\_ (about / in / on) this volunteering activity. {{ ans in }}
 1. I'm a bit nervous \_\_\_ (about / of / to) going somewhere so different. {{ ans about }}
 1. The activities will be similar \_\_\_ (at / to / with) what we did last year. {{ ans to }}
 1. He wants to be involved \_\_\_ (about / in / on) making the decision. {{ ans in }}
-1. She's angry \_\_\_ (about / for / of) not being invited to the dinner. {{ ans about }}
+1. She's angry \_\_\_ (about / for / of) not being invited to the Sadhanapada :) {{ ans about }}
 1. You're good \_\_\_ (at / in / to) talking to big groups of people. {{ ans at }}
-1. Eating a lot of red meat is not good \_\_\_ (at / for / on) you. {{ ans for }}
+1. Eating a lot of sweet things is not good \_\_\_ (at / for / on) you. {{ ans for }}
 1. I'm afraid \_\_\_ (of / to / with) flying. {{ ans of }}
 
 ## Exercise 2
