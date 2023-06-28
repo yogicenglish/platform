@@ -72,11 +72,11 @@ nav:
           - 'lessons/present-simple.md'
           - 'lessons/present-continuous.md'
           - 'lessons/adjectives-prepositions.md'
+    - 'Бесплатные Сессии':
+          -  'free-sessions/23-07-01.md'
     - 'Vocabulary':
           - 'vocabulary/feelings.md'
           - 'vocabulary/food.md'
-    - 'Блог':
-          - 'blog/grammar-topics.md'
-          - 'blog/tools.md'
+    - 'Блог': 'https://blog.ishaenglish.com'
 
 copyright: Copyright &copy; 2023 Yogic English
