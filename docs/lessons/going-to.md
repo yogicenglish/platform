@@ -21,7 +21,7 @@ He/She/It is
 We are
 They are
 
-### Will vs. Going to
+## Will vs. Going to
 ![WILL-VS-GOING-TO](https://github.com/AlexFreik/isha-english/assets/61039123/baf15784-e628-4ad3-a2fe-fa184d026bd7)
 
 
