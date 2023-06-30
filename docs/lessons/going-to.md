@@ -21,6 +21,14 @@ He/She/It is
 We are
 They are
 
+### Will vs. Going to
+<figure markdown>
+  ![Image title](https://dummyimage.com/600x400/){ width="300" }
+  <figcaption>Image caption</figcaption>
+</figure>
+![WILL-VS-GOING-TO](https://github.com/AlexFreik/isha-english/assets/61039123/baf15784-e628-4ad3-a2fe-fa184d026bd7)
+
+
 ???+ "Exercise 1"
 
     Complete the sentences with the correct form of `going to`:
