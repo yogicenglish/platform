@@ -1,4 +1,4 @@
-# Going to
+# Going To
 
 Для начала, может ли кто-то из вас уже рассказывать о своих будущих планах на английском?
  
@@ -23,23 +23,19 @@ We are
 They are
 
 
+???+ "Exercise 1"
 
-Давайте разделимся на группы и попробуем составить планы на будущее, использую going to
+    Complete the sentences with the correct form of `going to`:
 
+    a) I .... (go) to the beach tomorrow. {{ ans am going }}
+    b) She .... (cook) dinner tonight. {{ ans is goint to cook }}
+    c) They .... (watch) a movie this weekend. {{ ans are going to watch }}
+    d) We .... (have) a party next month. {{ ans are going to have }}
+    e) He .... (buy) a new car next year. {{ ans is going to buy }}
 
+???+ "Exercise 2"
 
-
-???+ "Exercise 1: Grammar task"
-
-1. Complete the sentences with the correct form of "going to":
-
-a) I ________ (go) to the beach tomorrow. {{ ans am going }}
-b) She ________ (cook) dinner tonight. {{ ans is goint to cook }}
-c) They ________ (watch) a movie this weekend. {{ ans are going to watch }}
-d) We ________ (have) a party next month. {{ ans are going to have }}
-e) He ________ (buy) a new car next year. {{ ans is going to buy }}
-
-2. Rewrite the sentences using "going to":
+Rewrite the sentences using `going to`:
 
 a) I will visit my grandparents this weekend. {{ ans I am going to visit my grandparents this weekend }}
 b) She will study for her exam tomorrow. {{ ans She is going to study for her exam tomorrow }}
@@ -47,14 +43,27 @@ c) They will have a party next week. {{ ans They are going to have a party next 
 
 3. Choose the correct form of "going to" to complete the sentences:
 
-a) We ___ (is/are) going to travel to Europe next summer. {{ ans are }}
-b) He ___ (is/are) going to play soccer with his friends this afternoon. {{ ans is }}
-c) She ___ (is/are) going to visit her family next month. {{ ans is }}
+a) We .... (is/are) going to travel to Europe next summer. {{ ans are }}
+b) He .... (is/are) going to play soccer with his friends this afternoon. {{ ans is }}
+c) She .... (is/are) going to visit her family next month. {{ ans is }}
+
+???+ "Exercise 3"
 
 4. Write one sentence about your plans for the future using "going to".
 
+???+ "Exercise 4: Speaking"
 
-???+ "Exercise 2: An Article"
+    Давайте разделимся на группы и попробуем составить планы на будущее, использую `going to`.
 
-Сейчас самое время потренироваться на интересной статье Садхгуру
+
+???+ "Exercise 5: Reading an article"
+
+    Сейчас самое время потренироваться на интересной статье Садхгуру
+    [«Разница между любовью и вожделением»](https://studyenglishwords.com/book/Разница-между-любовью-и/1443).
+
+???+ "Exercise 6: Watching a video"
+
+    Сейчас предлагаю отложить в сторону `going to` и попробовать разобрать кратенькое видео Садхгуру с английскими субтитрами
+
+    <lite-youtube videoid="od4ugnkeTyw"></lite-youtube>
 

@@ -66,7 +66,7 @@ function tryLogin(email) {
 
 const mdContent = document.getElementsByClassName('md-content')[0];
 mdContent.innerHTML = mdContent.innerHTML.replaceAll(
-	'___',
+	'....',
 	'<label class="input-sizer fill"><input type="text" onInput="this.parentNode.dataset.value = this.value" size="3" placeholder=" . . . "></label>',
 );
 

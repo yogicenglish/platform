@@ -90,25 +90,25 @@ Doesn‘t используется для третьего лица единст
 
     Давайте попробуем заполнить эти предложения:
 
-    -   My name is ___ .
-    -   I'm ___ years old.
-    -   I come from ___ .
-    -   I live in ___ .
-    -   I'm a(n) ___ .
-    -   I ___ at the weekend.
-    -   I often ___ .
-    -   I never ___ .
+    -   My name is .... .
+    -   I'm .... years old.
+    -   I come from .... .
+    -   I live in .... .
+    -   I'm a(n) .... .
+    -   I .... at the weekend.
+    -   I often .... .
+    -   I never .... .
 
     Могли бы вы также поговорить о вашем друге / подруге / любом другом близком человеке
 
-    -   Her/His name is ___ .
-    -   She's/He's ___ years old.
-    -   She/He comes from ___ .
-    -   She/He lives in ___ .
-    -   She's/He's a(n) ___ .
+    -   Her/His name is .... .
+    -   She's/He's .... years old.
+    -   She/He comes from .... .
+    -   She/He lives in .... .
+    -   She's/He's a(n) .... .
     -   She/He … at the weekend.
-    -   She/He often ___ .
-    -   She/He never ___ .
+    -   She/He often .... .
+    -   She/He never .... .
 
 ## Exercises 3
 

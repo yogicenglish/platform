@@ -51,12 +51,12 @@ Present continuous образован от настоящего времени �
 
     Соедините с возможным ответами:
 
-    1. Will you please be quiet? ___ . {{ ans A }}
-    1. (on the phone) Can I phone you later? ___ . {{ ans A }}
-    1. Could you stop the car, please? ___ . {{ ans A }}
-    1. (on the phone) Can I take a message? ___ . {{ ans A }}
-    1. Is it OK if we take a taxi? ___ . {{ ans B }}
-    1. (on the phone) Would you start cooking the dinner? ___ . {{ ans A }}
+    1. Will you please be quiet? .... . {{ ans A }}
+    1. (on the phone) Can I phone you later? .... . {{ ans A }}
+    1. Could you stop the car, please? .... . {{ ans A }}
+    1. (on the phone) Can I take a message? .... . {{ ans A }}
+    1. Is it OK if we take a taxi? .... . {{ ans B }}
+    1. (on the phone) Would you start cooking the dinner? .... . {{ ans A }}
 
     Ответы:
 
