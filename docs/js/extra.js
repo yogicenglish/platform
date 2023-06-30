@@ -32,7 +32,7 @@ if (getCookie('auth') === '') {
 if (getCookie('auth') !== 'true') {
 	if (
 		window.location.pathname !== homePath + 'login/' &&
-		!window.location.pathname.startsWith(homePath + 'blog/')
+		!window.location.pathname.startsWith(homePath + 'free-sessions/')
 	) {
 		window.location.pathname = homePath + 'login/';
 	}

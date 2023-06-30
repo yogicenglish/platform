@@ -1,7 +1,6 @@
 # Going To
 
 Для начала, может ли кто-то из вас уже рассказывать о своих будущих планах на английском?
- 
 
 Мы используем “going to” когда говорим о делах, уже запланированных до момента разговора
 
@@ -9,10 +8,10 @@
 
 I'm going to phone Mum after dinner. I told her I'd call at 8 o'clock.
 He is going to study for his exam tomorrow
-I'm going to wear my black dress tonight. 
+I'm going to wear my black dress tonight.
 I'm going to go to the supermarket after work. What do we need?
 
-Есть ли здесь сейчас те, кто находится еще на совсем начальном этапе изучения языка? 
+Есть ли здесь сейчас те, кто находится еще на совсем начальном этапе изучения языка?
 
 Тогда освежим как глагол to be используется со всеми местоимениями:
 
@@ -21,7 +20,6 @@ You are
 He/She/It is
 We are
 They are
-
 
 ???+ "Exercise 1"
 
@@ -55,7 +53,6 @@ c) She .... (is/are) going to visit her family next month. {{ ans is }}
 
     Давайте разделимся на группы и попробуем составить планы на будущее, использую `going to`.
 
-
 ???+ "Exercise 5: Reading an article"
 
     Сейчас самое время потренироваться на интересной статье Садхгуру
@@ -66,4 +63,3 @@ c) She .... (is/are) going to visit her family next month. {{ ans is }}
     Сейчас предлагаю отложить в сторону `going to` и попробовать разобрать кратенькое видео Садхгуру с английскими субтитрами
 
     <lite-youtube videoid="od4ugnkeTyw"></lite-youtube>
-
