@@ -10,16 +10,16 @@
 
 -   Делах / планах, уже запланированных до момента разговора.
 
-    \*Ex: I am **_going to_** visit India next month.\*
+    *Ex:* I am **_going to_** visit India next month.
 
 -   Обоснованные предсказывания о том что произойдет, когда ты на 80% уверен.
 
-    \*Ex: Look at those black clouds. It is **_going to_** rain.\*  
-     \*Ex: What is he doing?! He's **_going to_** fall from his scateboard.\*
+    *Ex:* Look at those black clouds. It is **_going to_** rain.  
+    *Ex:* What is he doing?! He's **_going to_** fall from his scateboard.
 
 -   Просто предсказывания, даже без особой уверенности.
 
-    \*Ex: I thing it is **_going to_** be tasty in Biksha.\*
+    *Ex:* I thing it is **_going to_** be tasty in Biksha.
 
 Конструкция образуется при помощи глагола to be и инфинитива глагола без частицы to
 
