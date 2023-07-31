@@ -54,9 +54,10 @@ function hashCode(str) {
 	return hash;
 }
 
-emailHashes = [-1268878963];
+emailHashes = [-1268878963, -1614384397, -1322963266];
 
 function tryLogin(email) {
+	email = email.toLowerCase();
 	if (emailHashes.includes(hashCode(email))) {
 		setCookie('auth', 'true', 7);
 		return true;
