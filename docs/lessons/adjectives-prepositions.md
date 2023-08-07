@@ -39,8 +39,28 @@
 
 ## Exercise 2
 
-???+ "Exercise 2: Watching a video"
+???+ "Exercise 2: Про себя"
+Сейчас давайте попробуем составить анкету о себе
 
-    Сейчас предлагаю отложить в сторону present continuous и попробовать разобрать кратенькое видео Садхгуру с английскими субтитрами
+I have a .... similar .... my husband‘s/mom‘s/sister‘s
+
+I am a bit nervous .... ....
+
+I am bad .... ....
+
+I am good .... ....
+
+I am a bit nervous .... ....
+
+I want to be involved .... ....
+
+I am truly interested .... ....
+
+This .... is truly good .... me
+
+
+???+ "Exercise 3: Watching a video"
+
+    Самое время попробовать разобрать кратенькое видео Садхгуру с английскими субтитрами
 
     <lite-youtube videoid="sm8gWF402Js"></lite-youtube>
