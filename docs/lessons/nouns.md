@@ -155,26 +155,22 @@ Can you remember the expressions from the last activity? Complete the missing pl
 
 Plural count nouns do not have a general determiner when they refer to people or things in general:
 
-Computers are very expensive.
-Do you sell old books?
+Computers are very expensive. <br>
+Do you sell old books? <br> 
 But they may have a specific determiner:
 
-Those computers are very expensive.
-The books in that shop are very expensive. 
-Her sisters live there.
+Those computers are very expensive. <br> 
+The books in that shop are very expensive. <br> 
+Her sisters live there. <br> 
 or a quantifier:
 
-some new books	
-a few teachers	
-lots of good ideas
+some new books	<br> 
+a few teachers	<br> 
+lots of good ideas <br> 
 
 or a numeral:
 
-two new books	
+two new books <br> 
 three wishes
 
 
-???+ "Exercise 5: Watching a video"
-
-
-<div class=https://youtu.be/KjwWlUF9lqU></div>
