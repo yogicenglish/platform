@@ -53,7 +53,6 @@ Exercise 1: Singular count nouns
 
 Can you remember the questions from the last activity? Write the noun phrases.
 
-16 items remaining
 1. Sorry, can I borrow ... ...? I need to write something down. <br>
 2. Is it OK if I close ... ...? It's getting a bit cold. <br>
 3. I'm afraid I'm busy today. Can we meet ... ...? <br> 
