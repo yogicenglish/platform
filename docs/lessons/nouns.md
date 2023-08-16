@@ -22,7 +22,7 @@ ideas
 Singular count nouns
 Singular count nouns cannot be used alone. They must have a determiner:
 
-the English teacher	
+the English teacher <br> 	
 that book	
 a wish	
 my latest idea 
@@ -102,7 +102,6 @@ Exercise 3
 
 Complete each expression with the plural of the noun in brackets ( ). There are 30 questions.
 
-30 items remaining
 1. active ... (volcano)
 2. African ... (elephant)
 3. birthday ... (wish)
