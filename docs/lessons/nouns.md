@@ -54,45 +54,45 @@ Exercise 1: Singular count nouns
 Can you remember the questions from the last activity? Write the noun phrases.
 
 16 items remaining
-1. Sorry, can I borrow ... ...? I need to write something down.
-2. Is it OK if I close ... ...? It's getting a bit cold.
-3. I'm afraid I'm busy today. Can we meet ... ...?
-4. Could you help me with ... ...? I don't understand it at all.
-5. Can I carry ... black ... for you? It looks heavy.
-6. Sorry to interrupt, but can I ask ... quick ...?
+1. Sorry, can I borrow ... ...? I need to write something down. <br>
+2. Is it OK if I close ... ...? It's getting a bit cold. <br>
+3. I'm afraid I'm busy today. Can we meet ... ...? <br> 
+4. Could you help me with ... ...? I don't understand it at all. <br>
+5. Can I carry ... black ... for you? It looks heavy. <br> 
+6. Sorry to interrupt, but can I ask ... quick ...? <br> 
 
 
 Plural count nouns
 We usually add –s to make a plural noun:
 
-book	>	books
-school	>	schools
-friend	>	friends
+book	>	books <br>
+school	>	schools <br>
+friend	>	friends <br> 
 We add –es to nouns ending in –s, –ch, –sh, –ss, –x and –o:  
 
-class	>	classes
-watch	>	watches
-gas	>	gases
-wish	>	wishes
-box	>	boxes
-potato	>	potatoes
+class	>	classes <br>
+watch	>	watches <br> 
+gas	>	gases <br> 
+wish	>	wishes <br> 
+box	>	boxes <br> 
+potato	>	potatoes <br> 
 When a noun ends in a consonant and –y, we make the plural with –ies:
 
-lady	>	ladies
-country	>	countries
-party	>	parties
+lady	>	ladies <br> 
+country	>	countries <br> 
+party	>	parties <br> 
 If a noun ends in a vowel and –y, we simply add –s:
 
-boy	>	boys
-day	>	days
-play	>	plays
+boy	>	boys <br> 
+day	>	days <br> 
+play	>	plays <br> 
 Some common nouns have irregular plurals:
 
-man	>	men
-woman	>	women
-child	>	children
-person	>	people
-foot	>	feet
+man	>	men <br> 
+woman	>	women <br> 
+child	>	children <br> 
+person	>	people <br> 
+foot	>	feet <br>  
 
 
 Exercise 3
