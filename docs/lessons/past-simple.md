@@ -2,27 +2,123 @@
 
 Objective: By the end of this lesson, students will be able to identify and use regular and irregular past tense forms in English correctly.
 
-# Introduction:
+## Introduction:
 
 Most English verbs form the past tense by adding -ed to the base form.
 Examples:
-call → called
-like → liked
-want → wanted
-work → worked
+- call → called
+- like → liked
+- want → wanted
+- work → worked
 However, English also has a number of irregular verbs that do not follow this pattern.
 
-# Irregular Verbs:
+## Irregular Verbs:
 Here are some common irregular verbs in English, along with their past tense forms:
 
 Base form	Past tense
-be	was/were
-begin	began
-...	...
-write	wrote
-(Note: This table has been shortened for clarity; refer to the provided list for all verbs.)
+be
+begin
+break
+bring
+buy
+build
+choose
+come
+cost
+cut
+do
+draw
+drive
+eat
+feel
+find
+get
+give
+go
+have
+hear
+hold
+keep
+know
+leave
+lead
+let
+lie
+lose
+make
+mean
+meet
+pay
+put
+run
+say
+sell
+send
+set
+sit
+speak
+spend
+stand
+take
+teach
+tell
+think
+understand
+wear
+win
+write	was/were
+began
+broke
+brought
+bought
+built
+chose
+came
+cost
+cut
+did
+drew
+drove
+ate
+felt
+found
+got
+gave
+went
+had
+heard
+held
+kept
+knew
+left
+led
+let
+lay
+lost
+made
+meant
+met
+paid
+put
+ran
+said
+sold
+sent
+set
+sat
+spoke
+spent
+stood
+took
+taught
+told
+thought
+understood
+wore
+won
+wrote
 
-# Usage of Past Tense:
+## Usage of Past Tense:
 We use the past tense to talk about:
 
 A Specific Event in the Past:
@@ -32,12 +128,12 @@ Example: "When I **was** a boy, I **walked** a mile to school every day."
 A Continued Truth in the Past:
 Example: "I **lived** abroad for ten years."
 Using 'Ago' with Past Simple:
-# The word "ago" is often used with the past simple tense to indicate how far back in the past something happened.
+## The word "ago" is often used with the past simple tense to indicate how far back in the past something happened.
 
 Example: "I met my wife a long time ago."
 Activity:
 
-# Fill in the Blanks:
+## Fill in the Blanks:
 
 I ____ (be) very busy yesterday.
 She ____ (write) a letter to her friend last week.
@@ -52,6 +148,6 @@ The nurse ____ (put) the little boy to bed and ____ (peak) to him softly.
 When they ____ (hear) the fire alarm, everybody ____ (run) out of the building.
 Last year, the company ____ (build) a new factory, which ____ (cost) millions of dollars.
 When Jose ____ (break) his arm, the doctor ____ (give) him two weeks off work.
-# Create Sentences: Use the irregular verbs from the table to make your own sentences in the past tense.
+## Create Sentences: Use the irregular verbs from the table to make your own sentences in the past tense.
 
 
