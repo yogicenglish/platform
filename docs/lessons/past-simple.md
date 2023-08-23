@@ -83,10 +83,11 @@ Example: "I **lived** abroad for ten years."
 Using 'Ago' with Past Simple:
 ## The word "ago" is often used with the past simple tense to indicate how far back in the past something happened.
 
-Example: "I met my wife a long time ago."
-Activity:
+Example: "I met my wife a long time **ago**."
 
-## Fill in the Blanks:
+## Exercises
+
+???+ "Fill in the blanks"
 
 I ____ (be) very busy yesterday.
 She ____ (write) a letter to her friend last week.
@@ -101,6 +102,22 @@ The nurse ____ (put) the little boy to bed and ____ (peak) to him softly.
 When they ____ (hear) the fire alarm, everybody ____ (run) out of the building.
 Last year, the company ____ (build) a new factory, which ____ (cost) millions of dollars.
 When Jose ____ (break) his arm, the doctor ____ (give) him two weeks off work.
-## Create Sentences: Use the irregular verbs from the table to make your own sentences in the past tense.
+
+???+ "Remember the words from the previous activity"
+
+1. When Lucy ____ to the interview, she ____ her best suit.
+2. When they ____ the fire alarm, everybody ____ out of the building.
+3. The young man ____ out his wallet and ____ the bill.
+4. Last year the company ____ a new factory, which ____ millions of dollars.
+5. As soon as I ____ Doris, I ____ she ____ someone special.
+6. The nurse ____ the little boy in bed and ____ to him softly.
+7. When Jose ____ his arm, the doctor ____ him two weeks off work.
+8. Tolstoy ____ some great novels but he never ____ a Nobel Prize.
+9. I ____ I ____ my irregular verbs but now I'm not so sure!
+10. We ____ the motorway and ____ for an hour on quiet country roads.
+
+???+ "Create Sentences: Use the irregular verbs from the table to make your own sentences in the past tense."
+
+
 
 
