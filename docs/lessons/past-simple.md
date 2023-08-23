@@ -89,19 +89,19 @@ Example: "I met my wife a long time **ago**."
 
 ???+ "Fill in the blanks"
 
-I .... (be) very busy yesterday.
-She .... (write) a letter to her friend last week.
-They .... (go) to the movies two days ago.
-The young man .... (take) out his wallet and .... (pay) the bill.
-When Lucy .... (go) to the interview, she .... (wear) her best suit.
-We .... (leave) the motorway and .... (drive) for an hour on quiet country roads.
-I .... (think) I .... (know) my irregular verbs, but now I'm not so sure!
-As soon as I .... (meet) Doris, I .... (know) she .... (be) someone special.
-Tolstoy .... (write) some great novels, but he never .... (win) a Nobel Prize.
-The nurse .... (put) the little boy to bed and .... (peak) to him softly.
-When they .... (hear) the fire alarm, everybody .... (run) out of the building.
-Last year, the company .... (build) a new factory, which .... (cost) millions of dollars.
-When Jose .... (break) his arm, the doctor .... (give) him two weeks off work.
+1. I .... (be) very busy yesterday.
+2. She .... (write) a letter to her friend last week.
+3. They .... (go) to the movies two days ago.
+4. The young man .... (take) out his wallet and .... (pay) the bill.
+5. When Lucy .... (go) to the interview, she .... (wear) her best suit.
+6. We .... (leave) the motorway and .... (drive) for an hour on quiet country roads.
+7. I .... (think) I .... (know) my irregular verbs, but now I'm not so sure!
+8. As soon as I .... (meet) Doris, I .... (know) she .... (be) someone special.
+9. Tolstoy .... (write) some great novels, but he never .... (win) a Nobel Prize.
+10. The nurse .... (put) the little boy to bed and .... (peak) to him softly.
+11. When they .... (hear) the fire alarm, everybody .... (run) out of the building.
+12. Last year, the company .... (build) a new factory, which .... (cost) millions of dollars.
+13. When Jose .... (break) his arm, the doctor .... (give) him two weeks off work.
 
 ???+ "Remember the words from the previous activity"
 
