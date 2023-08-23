@@ -15,58 +15,60 @@ However, English also has a number of irregular verbs that do not follow this pa
 ## Irregular Verbs:
 Here are some common irregular verbs in English, along with their past tense forms:
 
-|Base form_____________|Past tense_____________|
-|be
-|begin
-|break
-|bring
-|buy
-|build
-|choose
-|come
-|cost
-|cut
-|do
-|draw
-|drive
-|eat
-|feel
-|find
-|get
-|give
-|go
-|have
-|hear
-|hold
-|keep
-|know
-|leave
-|lead
-|let
-|lie
-|lose
-|make
-|mean
-|meet
-|pay
-|put
-|run
-|say
-|sell
-|send
-|set
-|sit
-|speak
-|spend
-|stand
-|take
-|teach
-|tell
-|think
-|understand
-|wear
-|win
-|write	
+|Base form             |Past tense             |
+|:---------------------|-----------------------|
+|be                    |was/were
+|begin                 |began
+|break                 |broke
+|bring                 |brought
+|buy                   |bought
+|build                 |built
+|choose                |chose
+|come                  |came
+|cost                  |cost
+|cut                   |cut
+|do                    |did
+|draw                  |drew
+|drive                 |drove
+|eat                   |ate
+|feel                  |felt
+|find                  |found
+|get                   |got
+|give                  |gave
+|go                    |went
+|have                  |had
+|hear                  |heard
+|hold                  |held
+|keep                  |kept
+|know                  |knew
+|leave                 |left
+|lead                  |led
+|let                   |let
+|lie                   |lay
+|lose                  |lost
+|make                  |made
+|mean                  |meant
+|meet                  |met
+|pay                   |paid
+|put                   |put
+|run                   |ran
+|say                   |said
+|sell                  |sold
+|send                  |sent
+|set                   |set
+|sit                   |sat
+|speak                 |spoke
+|spend                 |spent
+|stand                 |stood
+|take                  |took
+|teach                 |taught
+|tell                  |told
+|think                 |thought
+|understand            |understood
+|wear                  |wore
+|win                   |won
+|write                 |wrote
+	
 
 
 ## Usage of Past Tense:
