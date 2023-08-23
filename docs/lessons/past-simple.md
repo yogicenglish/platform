@@ -89,32 +89,32 @@ Example: "I met my wife a long time **ago**."
 
 ???+ "Fill in the blanks"
 
-I ____ (be) very busy yesterday.
-She ____ (write) a letter to her friend last week.
-They ____ (go) to the movies two days ago.
-The young man ____ (take) out his wallet and ____ (pay) the bill.
-When Lucy ____ (go) to the interview, she ____ (wear) her best suit.
-We ____ (leave) the motorway and ____ (drive) for an hour on quiet country roads.
-I ____ (think) I ____ (know) my irregular verbs, but now I'm not so sure!
-As soon as I ____ (meet) Doris, I ____ (know) she ____ (be) someone special.
-Tolstoy ____ (write) some great novels, but he never ____ (win) a Nobel Prize.
-The nurse ____ (put) the little boy to bed and ____ (peak) to him softly.
-When they ____ (hear) the fire alarm, everybody ____ (run) out of the building.
-Last year, the company ____ (build) a new factory, which ____ (cost) millions of dollars.
-When Jose ____ (break) his arm, the doctor ____ (give) him two weeks off work.
+I .... (be) very busy yesterday.
+She .... (write) a letter to her friend last week.
+They .... (go) to the movies two days ago.
+The young man .... (take) out his wallet and .... (pay) the bill.
+When Lucy .... (go) to the interview, she .... (wear) her best suit.
+We .... (leave) the motorway and .... (drive) for an hour on quiet country roads.
+I .... (think) I .... (know) my irregular verbs, but now I'm not so sure!
+As soon as I .... (meet) Doris, I .... (know) she .... (be) someone special.
+Tolstoy .... (write) some great novels, but he never .... (win) a Nobel Prize.
+The nurse .... (put) the little boy to bed and .... (peak) to him softly.
+When they .... (hear) the fire alarm, everybody .... (run) out of the building.
+Last year, the company .... (build) a new factory, which .... (cost) millions of dollars.
+When Jose .... (break) his arm, the doctor .... (give) him two weeks off work.
 
 ???+ "Remember the words from the previous activity"
 
-1. When Lucy ____ to the interview, she ____ her best suit.
-2. When they ____ the fire alarm, everybody ____ out of the building.
-3. The young man ____ out his wallet and ____ the bill.
-4. Last year the company ____ a new factory, which ____ millions of dollars.
-5. As soon as I ____ Doris, I ____ she ____ someone special.
-6. The nurse ____ the little boy in bed and ____ to him softly.
-7. When Jose ____ his arm, the doctor ____ him two weeks off work.
-8. Tolstoy ____ some great novels but he never ____ a Nobel Prize.
-9. I ____ I ____ my irregular verbs but now I'm not so sure!
-10. We ____ the motorway and ____ for an hour on quiet country roads.
+1. When Lucy .... to the interview, she .... her best suit.
+2. When they .... the fire alarm, everybody .... out of the building.
+3. The young man .... out his wallet and .... the bill.
+4. Last year the company .... a new factory, which .... millions of dollars.
+5. As soon as I .... Doris, I .... she .... someone special.
+6. The nurse .... the little boy in bed and .... to him softly.
+7. When Jose .... his arm, the doctor .... him two weeks off work.
+8. Tolstoy .... some great novels but he never .... a Nobel Prize.
+9. I .... I .... my irregular verbs but now I'm not so sure!
+10. We .... the motorway and .... for an hour on quiet country roads.
 
 ???+ "Create Sentences: Use the irregular verbs from the table to make your own sentences in the past tense."
 
