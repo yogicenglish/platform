@@ -5,7 +5,7 @@
 
 ???+ "Let's listen to the recording and do some tasks"
 
-<div class="youtube-player" data-id="RwQjB6k2FzuIfH83"></div>
+<div class="youtube-player" data-id="ri2uKTpw4lQ"></div>
 
 General Understanding:
 
@@ -40,7 +40,7 @@ Personal Reflection:
 ???+ "Let's listen to the recording and do some tasks"
 
 
-<div class="youtube-player" data-id="V9A2708K8Tlz3GwK"></div>
+<div class="youtube-player" data-id="MTUUGRJaRiE"></div>
 
 General Understanding:
 
