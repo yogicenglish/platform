@@ -75,31 +75,31 @@ but we can use will if it means want to or be willing to:
 
 Complete the sentences using the correct form of the verb in brackets.
 
-I believe that our team _________ (win) the match tomorrow.
-Look at that child! He _________ (fall) if he's not careful.
-You must wait here until the manager _________ (arrive).
-I'm not sure, but I think the conference _________ (be) next month.
-If it _________ (rain) tomorrow, we'll cancel the picnic.
-They _________ (visit) the museum after they _________ (have) lunch.
-Exercise 2: Fill in the blanks
+- I believe that our team _________ (win) the match tomorrow.
+- Look at that child! He _________ (fall) if he's not careful.
+- You must wait here until the manager _________ (arrive).
+- I'm not sure, but I think the conference _________ (be) next month.
+- If it _________ (rain) tomorrow, we'll cancel the picnic.
+- They _________ (visit) the museum after they _________ (have) lunch.
+- Exercise 2: Fill in the blanks
 
 ???+ "Use the present simple, present continuous, or "be going to" to complete the sentences"
 
-We __________ (have) a meeting at 3 p.m. next Friday.
-I'm tired. I think I __________ (go) to bed soon.
-The movie __________ (start) at 7 p.m.
-It looks like it __________ (be) a sunny day tomorrow.
-She __________ (not come) to the party because she's sick.
-Based on those dark clouds, it __________ (rain) soon.
+- We __________ (have) a meeting at 3 p.m. next Friday.
+- I'm tired. I think I __________ (go) to bed soon.
+- The movie __________ (start) at 7 p.m.
+- It looks like it __________ (be) a sunny day tomorrow.
+- She __________ (not come) to the party because she's sick.
+- Based on those dark clouds, it __________ (rain) soon.
 Exercise 3: Complete the if-clauses
 
 ???+ "Choose the correct form of the verb to complete the if-clauses"
 
-If the train _________ (be) late, we'll miss our connection.
-We'll go to the beach if it _________ (not rain).
-If she _________ (have) time, she will visit her grandparents next weekend.
-You can borrow my car if you _________ (return) it by evening.
-If they _________ (finish) their work early, they'll join us for dinner.
-I'll be grateful if you _________ (help) with the dishes.
+- If the train _________ (be) late, we'll miss our connection.
+- We'll go to the beach if it _________ (not rain).
+- If she _________ (have) time, she will visit her grandparents next weekend.
+- You can borrow my car if you _________ (return) it by evening.
+- If they _________ (finish) their work early, they'll join us for dinner.
+- I'll be grateful if you _________ (help) with the dishes.
 
 ## Time for a video about donkey:)
