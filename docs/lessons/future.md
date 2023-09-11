@@ -41,8 +41,8 @@ to talk about plans or intentions:</br>
 - They are going to move to Manchester.</br> 
 
 to make predictions based on evidence we can see:</br> 
-- Be careful! You are going to fall. (= I can see that you might fall.)
-- Look at those black clouds. I think it's going to rain. (= I can see that it will rain.)
+- Be careful! You are going to fall. (= I can see that you might fall.)</br> 
+- Look at those black clouds. I think it's going to rain. (= I can see that it will rain.)</br> 
 
 ## The future in time clauses and if-clauses
 
