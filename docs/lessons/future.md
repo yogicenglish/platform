@@ -2,20 +2,20 @@
 
 When we know about the future, we normally use the present tense.
 
-1. We use the present simple for something scheduled:
+We use the present simple for something scheduled:
 
 - We have a lesson next Monday.</br> 
 - The train arrives at 6.30 in the morning..</br>
 - The holidays start next week..</br>
 - It's my birthday tomorrow..</br>
 
-2. We can use the present continuous for plans or arrangements:
+We can use the present continuous for plans or arrangements:
 
 - I'm playing football tomorrow..</br> 
 - They are coming to see us tomorrow..</br> 
 - We're having a party at Christmas..</br> 
 
-3. We use will:
+We use will:
 
 when we express beliefs about the future:
 - It will be a nice day tomorrow..</br> 
@@ -34,7 +34,7 @@ to talk about offers and promises:
 - Tim will be at the meeting..</br> 
 - Mary will help with the cooking..</br> 
 
-4. We use be going to:
+We use be going to:
 
 to talk about plans or intentions:
 - I'm going to drive to work today..</br> 
@@ -60,8 +60,8 @@ In clauses with if we often use present tense forms to talk about the future:
 ## But careful!
 
 Although we do not normally use will in time clauses and if-clauses:
-- I'll come home when I finish work. (NOT will finish work)
-- We won’t be able to go out if it rains. (NOT will rain)
+- I'll come home when I finish work. (NOT will finish work)</br>
+- We won’t be able to go out if it rains. (NOT will rain)</br> 
 
 but we can use will if it means want to or be willing to:
 
