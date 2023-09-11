@@ -2,45 +2,45 @@
 
 When we know about the future, we normally use the present tense.
 
-We use the present simple for something scheduled:
+We use the present simple for something scheduled:</br> 
 
 - We have a lesson next Monday.</br> 
-- The train arrives at 6.30 in the morning..</br>
-- The holidays start next week..</br>
-- It's my birthday tomorrow..</br>
+- The train arrives at 6.30 in the morning.</br>
+- The holidays start next week.</br>
+- It's my birthday tomorrow.</br>
 
-We can use the present continuous for plans or arrangements:
+We can use the present continuous for plans or arrangements:</br> 
 
-- I'm playing football tomorrow..</br> 
-- They are coming to see us tomorrow..</br> 
-- We're having a party at Christmas..</br> 
+- I'm playing football tomorrow.</br> 
+- They are coming to see us tomorrow.</br> 
+- We're having a party at Christmas.</br> 
 
 We use will:
 
-when we express beliefs about the future:
-- It will be a nice day tomorrow..</br> 
-- I think Brazil will win the World Cup..</br>
-- I'm sure you will enjoy the film..</br>
+when we express beliefs about the future:</br> 
+- It will be a nice day tomorrow.</br> 
+- I think Brazil will win the World Cup.</br>
+- I'm sure you will enjoy the film.</br>
 
-to mean want to or be willing to:
-- I hope you will come to my party..</br>
-- George says he will help us..</br> 
+to mean want to or be willing to:</br> 
+- I hope you will come to my party.</br>
+- George says he will help us.</br> 
 
-to make offers and promises :
+to make offers and promises:</br> 
 - I'll see you tomorrow.</br> 
-- We'll send you an email..</br>
+- We'll send you an email.</br>
 
-to talk about offers and promises:
-- Tim will be at the meeting..</br> 
-- Mary will help with the cooking..</br> 
+to talk about offers and promises:</br> 
+- Tim will be at the meeting.</br> 
+- Mary will help with the cooking.</br> 
 
 We use be going to:
 
-to talk about plans or intentions:
-- I'm going to drive to work today..</br> 
+to talk about plans or intentions:</br> 
+- I'm going to drive to work today.</br> 
 - They are going to move to Manchester.</br> 
 
-to make predictions based on evidence we can see:
+to make predictions based on evidence we can see:</br> 
 - Be careful! You are going to fall. (= I can see that you might fall.)
 - Look at those black clouds. I think it's going to rain. (= I can see that it will rain.)
 
@@ -60,6 +60,7 @@ In clauses with if we often use present tense forms to talk about the future:
 ## But careful!
 
 Although we do not normally use will in time clauses and if-clauses:
+
 - I'll come home when I finish work. (NOT will finish work)</br>
 - We won’t be able to go out if it rains. (NOT will rain)</br> 
 
