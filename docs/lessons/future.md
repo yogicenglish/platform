@@ -67,9 +67,9 @@ Although we do not normally use will in time clauses and if-clauses:
 but we can use will if it means want to or be willing to:
 
 - I will be very happy if you will come to my party.</br> 
-- We should finish the job early if George will help us.</br> 
+- We should finish the job early if George will help us.</br>
 
-  ## Exercises
+## Exercises
 
 ???+ "Choose the correct form"
 
