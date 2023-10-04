@@ -5,15 +5,15 @@ Future Simple используется для выражения действи�
 ## Formulation
 
 Positive Statements:
-Subject + will + base verb + rest of the sentence
+Subject + will + base verb + rest of the sentence</br> 
 Example: She will go to the party tonight.
 
 Negative Statements:
-Subject + will + not + base verb + rest of the sentence
+Subject + will + not + base verb + rest of the sentence</br> 
 Example: They will not (won't) play basketball tomorrow.
 
 Questions:
-Will + subject + base verb + rest of the sentence?
+Will + subject + base verb + rest of the sentence?</br> 
 Example: Will you join us for dinner?
 
 ## Uses
