@@ -151,4 +151,9 @@ He is/ she is/ it is <br />
 - Ты уже пробовал йогу на открытом воздухе?
 - Она нашла спокойствие через йогу.
 
+???+ "Exercise 4: Watching a video"
+
+<div class="youtube-player" data-id="od4ugnkeTyw"></div>
+
+
 
