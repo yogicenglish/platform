@@ -1,4 +1,4 @@
-const homePath = '/';
+const homePath = '/platform/';
 
 function setCookie(name, value, days) {
 	var expires = '';
