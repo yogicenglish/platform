@@ -1,6 +1,6 @@
 # Isha English
 
-[![example workflow](https://github.com/AlexFreik/isha-english/actions/workflows/ci.yml/badge.svg)](https://platform.ishaenglish.com/)
+[![example workflow](https://github.com/yogicenglish/platform/actions/workflows/ci.yml/badge.svg)](https://yogicenglish.github.io/platform/)
 
 ## Links
 
