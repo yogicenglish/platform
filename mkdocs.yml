@@ -1,6 +1,6 @@
 site_name: Yogic English
-site_url: https://platform.ishaenglish.com/
-repo_url: https://github.com/AlexFreik/isha-english/
+site_url: https://yogicenglish.github.io/platform/
+repo_url: https://github.com/yogicenglish/platform/
 
 theme:
     name: material
