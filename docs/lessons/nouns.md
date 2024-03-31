@@ -1,31 +1,30 @@
 # Nouns
 
-
 ## Count nouns
 
 Count nouns have two forms: singular and plural.
 
 Singular count nouns refer to one person or thing:
 
-a teacher	
-a book	
-a wish	
+a teacher
+a book
+a wish
 an idea
 
 Plural count nouns refer to more than one person or thing:
 
-teachers	
-books	
-wishes	
+teachers
+books
+wishes
 ideas
 
 Singular count nouns
 Singular count nouns cannot be used alone. They must have a determiner:
 
-the English teacher <br> 	
-that book	
-a wish	
-my latest idea 
+the English teacher <br>
+that book
+a wish
+my latest idea
 
 Exercise 1: Singular count nouns
 
@@ -48,56 +47,52 @@ Exercise 1: Singular count nouns
 1. Sorry to interrupt, but can I ask a quick question? <br>
    {{ ans a quick question }}
 
-
 ???+ "Exercise 2: Singular count nouns 2"
 
 Can you remember the questions from the last activity? Write the noun phrases.
 
 1. Sorry, can I borrow ... ...? I need to write something down. <br>
 2. Is it OK if I close ... ...? It's getting a bit cold. <br>
-3. I'm afraid I'm busy today. Can we meet ... ...? <br> 
+3. I'm afraid I'm busy today. Can we meet ... ...? <br>
 4. Could you help me with ... ...? I don't understand it at all. <br>
-5. Can I carry ... black ... for you? It looks heavy. <br> 
-6. Sorry to interrupt, but can I ask ... quick ...? <br> 
-
+5. Can I carry ... black ... for you? It looks heavy. <br>
+6. Sorry to interrupt, but can I ask ... quick ...? <br>
 
 Plural count nouns
 We usually add –s to make a plural noun:
 
-book	>	books <br>
-school	>	schools <br>
-friend	>	friends <br> 
-We add –es to nouns ending in –s, –ch, –sh, –ss, –x and –o:  
+book > books <br>
+school > schools <br>
+friend > friends <br>
+We add –es to nouns ending in –s, –ch, –sh, –ss, –x and –o:
 
-class	>	classes <br>
-watch	>	watches <br> 
-gas	>	gases <br> 
-wish	>	wishes <br> 
-box	>	boxes <br> 
-potato	>	potatoes <br> 
+class > classes <br>
+watch > watches <br>
+gas > gases <br>
+wish > wishes <br>
+box > boxes <br>
+potato > potatoes <br>
 When a noun ends in a consonant and –y, we make the plural with –ies:
 
-lady	>	ladies <br> 
-country	>	countries <br> 
-party	>	parties <br> 
+lady > ladies <br>
+country > countries <br>
+party > parties <br>
 If a noun ends in a vowel and –y, we simply add –s:
 
-boy	>	boys <br> 
-day	>	days <br> 
-play	>	plays <br> 
+boy > boys <br>
+day > days <br>
+play > plays <br>
 Some common nouns have irregular plurals:
 
-man	>	men <br> 
-woman	>	women <br> 
-child	>	children <br> 
-person	>	people <br> 
-foot	>	feet <br>  
-
+man > men <br>
+woman > women <br>
+child > children <br>
+person > people <br>
+foot > feet <br>
 
 Exercise 3
 
 ???+ "Exercise 3: Plural count nouns 1"
-
 
 Complete each expression with the plural of the noun in brackets ( ). There are 30 questions.
 
@@ -113,7 +108,7 @@ Complete each expression with the plural of the noun in brackets ( ). There are 
 10. 30,000 ... (foot)
 11. empty ... (bottle)
 12. English ... (course)
-13. football ...  (pitch)
+13. football ... (pitch)
 14. front-door ... (key)
 15. green ... (tomato)
 16. greenhouse ... (gas)
@@ -132,8 +127,6 @@ Complete each expression with the plural of the noun in brackets ( ). There are 
 29. wedding ... (dress)
 30. young ... (woman)
 
-
-
 Exercise 4
 
 ???+ "Exercise 4: Plural count nouns 2"
@@ -141,35 +134,34 @@ Exercise 4
 Can you remember the expressions from the last activity? Complete the missing plural nouns.
 
 30 items remaining
-1. traffic a....  
-2. African e....  
-3. hospital d....  
-4. English c....  
-5. computer g....  
-6. empty b....  
-7. summer m....  
-8. blue e....  
-9. dirty d....  
-10. birthday w....  
+
+1. traffic a....
+2. African e....
+3. hospital d....
+4. English c....
+5. computer g....
+6. empty b....
+7. summer m....
+8. blue e....
+9. dirty d....
+10. birthday w....
 
 Plural count nouns do not have a general determiner when they refer to people or things in general:
 
 Computers are very expensive. <br>
-Do you sell old books? <br> 
+Do you sell old books? <br>
 But they may have a specific determiner:
 
-Those computers are very expensive. <br> 
-The books in that shop are very expensive. <br> 
-Her sisters live there. <br> 
+Those computers are very expensive. <br>
+The books in that shop are very expensive. <br>
+Her sisters live there. <br>
 or a quantifier:
 
-some new books	<br> 
-a few teachers	<br> 
-lots of good ideas <br> 
+some new books <br>
+a few teachers <br>
+lots of good ideas <br>
 
 or a numeral:
 
-two new books <br> 
+two new books <br>
 three wishes
-
-

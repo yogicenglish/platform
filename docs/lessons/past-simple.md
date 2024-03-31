@@ -6,81 +6,83 @@ Objective: By the end of this lesson, students will be able to identify and use 
 
 Most English verbs form the past tense by adding -ed to the base form.
 Examples:
-- call → called<br> 
-- like → liked<br> 
-- want → wanted<br> 
-- work → worked<br> 
-However, English also has a number of irregular verbs that do not follow this pattern.
+
+-   call → called<br>
+-   like → liked<br>
+-   want → wanted<br>
+-   work → worked<br>
+    However, English also has a number of irregular verbs that do not follow this pattern.
 
 ## Irregular Verbs:
+
 Here are some common irregular verbs in English, along with their past tense forms:
 
-|Base form             |Past tense             |
-|:---------------------|-----------------------|
-|be                    |was/were
-|begin                 |began
-|break                 |broke
-|bring                 |brought
-|buy                   |bought
-|build                 |built
-|choose                |chose
-|come                  |came
-|cost                  |cost
-|cut                   |cut
-|do                    |did
-|draw                  |drew
-|drive                 |drove
-|eat                   |ate
-|feel                  |felt
-|find                  |found
-|get                   |got
-|give                  |gave
-|go                    |went
-|have                  |had
-|hear                  |heard
-|hold                  |held
-|keep                  |kept
-|know                  |knew
-|leave                 |left
-|lead                  |led
-|let                   |let
-|lie                   |lay
-|lose                  |lost
-|make                  |made
-|mean                  |meant
-|meet                  |met
-|pay                   |paid
-|put                   |put
-|run                   |ran
-|say                   |said
-|sell                  |sold
-|send                  |sent
-|set                   |set
-|sit                   |sat
-|speak                 |spoke
-|spend                 |spent
-|stand                 |stood
-|take                  |took
-|teach                 |taught
-|tell                  |told
-|think                 |thought
-|understand            |understood
-|wear                  |wore
-|win                   |won
-|write                 |wrote
-	
-
+| Base form  | Past tense |
+| :--------- | ---------- |
+| be         | was/were   |
+| begin      | began      |
+| break      | broke      |
+| bring      | brought    |
+| buy        | bought     |
+| build      | built      |
+| choose     | chose      |
+| come       | came       |
+| cost       | cost       |
+| cut        | cut        |
+| do         | did        |
+| draw       | drew       |
+| drive      | drove      |
+| eat        | ate        |
+| feel       | felt       |
+| find       | found      |
+| get        | got        |
+| give       | gave       |
+| go         | went       |
+| have       | had        |
+| hear       | heard      |
+| hold       | held       |
+| keep       | kept       |
+| know       | knew       |
+| leave      | left       |
+| lead       | led        |
+| let        | let        |
+| lie        | lay        |
+| lose       | lost       |
+| make       | made       |
+| mean       | meant      |
+| meet       | met        |
+| pay        | paid       |
+| put        | put        |
+| run        | ran        |
+| say        | said       |
+| sell       | sold       |
+| send       | sent       |
+| set        | set        |
+| sit        | sat        |
+| speak      | spoke      |
+| spend      | spent      |
+| stand      | stood      |
+| take       | took       |
+| teach      | taught     |
+| tell       | told       |
+| think      | thought    |
+| understand | understood |
+| wear       | wore       |
+| win        | won        |
+| write      | wrote      |
 
 ## Usage of Past Tense:
+
 We use the past tense to talk about:
 
 A Specific Event in the Past:
 Example: "I **met** my wife in 1983."<br>
-Repeated Actions in the Past:<br> 
-Example: "When I **was** a boy, I **walked** a mile to school every day."<br> 
-A Continued Truth in the Past:<br> 
-Example: "I **lived** abroad for ten years."<br> 
-Using 'Ago' with Past Simple:<br> 
+Repeated Actions in the Past:<br>
+Example: "When I **was** a boy, I **walked** a mile to school every day."<br>
+A Continued Truth in the Past:<br>
+Example: "I **lived** abroad for ten years."<br>
+Using 'Ago' with Past Simple:<br>
+
 ## The word "ago" is often used with the past simple tense to indicate how far back in the past something happened.
 
 Example: "I met my wife a long time **ago**."
@@ -121,6 +123,3 @@ Example: "I met my wife a long time **ago**."
 ???+ "Watching a video"
 
 <div class="youtube-player" data-id="1nW8znNJ6F8"></div>
-
-
-

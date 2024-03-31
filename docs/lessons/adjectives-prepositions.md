@@ -58,7 +58,6 @@ I am truly interested .... ....
 
 This .... is truly good .... me
 
-
 ???+ "Exercise 3: Watching a video"
 
     Самое время попробовать разобрать кратенькое видео Садхгуру с английскими субтитрами

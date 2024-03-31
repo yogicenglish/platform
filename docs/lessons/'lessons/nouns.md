@@ -1,31 +1,30 @@
 # Nouns
 
-
 ## Count nouns
 
 Count nouns have two forms: singular and plural.
 
 Singular count nouns refer to one person or thing:
 
-a teacher	
-a book	
-a wish	
+a teacher
+a book
+a wish
 an idea
 
 Plural count nouns refer to more than one person or thing:
 
-teachers	
-books	
-wishes	
+teachers
+books
+wishes
 ideas
 
 Singular count nouns
 Singular count nouns cannot be used alone. They must have a determiner:
 
-the English teacher	
-that book	
-a wish	
-my latest idea 
+the English teacher
+that book
+a wish
+my latest idea
 
 Exercise 1: Singular count nouns
 
@@ -48,12 +47,12 @@ Exercise 1: Singular count nouns
 1. Sorry to interrupt, but can I ask a quick question? <br>
    {{ ans a quick question }}
 
-
 ???+ "Exercise 2: Singular count nouns 2"
 
 Can you remember the questions from the last activity? Write the noun phrases.
 
 16 items remaining
+
 1. Sorry, can I borrow ... ...? I need to write something down.
 2. Is it OK if I close ... ...? It's getting a bit cold.
 3. I'm afraid I'm busy today. Can we meet ... ...?
@@ -61,48 +60,46 @@ Can you remember the questions from the last activity? Write the noun phrases.
 5. Can I carry ... black ... for you? It looks heavy.
 6. Sorry to interrupt, but can I ask ... quick ...?
 
-
 Plural count nouns
 We usually add –s to make a plural noun:
 
-book	>	books
-school	>	schools
-friend	>	friends
-We add –es to nouns ending in –s, –ch, –sh, –ss, –x and –o:  
+book > books
+school > schools
+friend > friends
+We add –es to nouns ending in –s, –ch, –sh, –ss, –x and –o:
 
-class	>	classes
-watch	>	watches
-gas	>	gases
-wish	>	wishes
-box	>	boxes
-potato	>	potatoes
+class > classes
+watch > watches
+gas > gases
+wish > wishes
+box > boxes
+potato > potatoes
 When a noun ends in a consonant and –y, we make the plural with –ies:
 
-lady	>	ladies
-country	>	countries
-party	>	parties
+lady > ladies
+country > countries
+party > parties
 If a noun ends in a vowel and –y, we simply add –s:
 
-boy	>	boys
-day	>	days
-play	>	plays
+boy > boys
+day > days
+play > plays
 Some common nouns have irregular plurals:
 
-man	>	men
-woman	>	women
-child	>	children
-person	>	people
-foot	>	feet
-
+man > men
+woman > women
+child > children
+person > people
+foot > feet
 
 Exercise 3
 
 ???+ "Exercise 3: Plural count nouns 1"
 
-
 Complete each expression with the plural of the noun in brackets ( ). There are 30 questions.
 
 30 items remaining
+
 1. active ... (volcano)
 2. African ... (elephant)
 3. birthday ... (wish)
@@ -115,7 +112,7 @@ Complete each expression with the plural of the noun in brackets ( ). There are 
 10. 30,000 ... (foot)
 11. empty ... (bottle)
 12. English ... (course)
-13. football ...  (pitch)
+13. football ... (pitch)
 14. front-door ... (key)
 15. green ... (tomato)
 16. greenhouse ... (gas)
@@ -134,8 +131,6 @@ Complete each expression with the plural of the noun in brackets ( ). There are 
 29. wedding ... (dress)
 30. young ... (woman)
 
-
-
 Exercise 4
 
 ???+ "Exercise 4: Plural count nouns 2"
@@ -143,16 +138,17 @@ Exercise 4
 Can you remember the expressions from the last activity? Complete the missing plural nouns.
 
 30 items remaining
-1. traffic a....  
-2. African e....  
-3. hospital d....  
-4. English c....  
-5. computer g....  
-6. empty b....  
-7. summer m....  
-8. blue e....  
-9. dirty d....  
-10. birthday w....  
+
+1. traffic a....
+2. African e....
+3. hospital d....
+4. English c....
+5. computer g....
+6. empty b....
+7. summer m....
+8. blue e....
+9. dirty d....
+10. birthday w....
 
 Plural count nouns do not have a general determiner when they refer to people or things in general:
 
@@ -161,21 +157,19 @@ Do you sell old books?
 But they may have a specific determiner:
 
 Those computers are very expensive.
-The books in that shop are very expensive. 
+The books in that shop are very expensive.
 Her sisters live there.
 or a quantifier:
 
-some new books	
-a few teachers	
+some new books
+a few teachers
 lots of good ideas
 
 or a numeral:
 
-two new books	
+two new books
 three wishes
 
-
 ???+ "Exercise 5: Watching a video"
-
 
 <div class=https://youtu.be/KjwWlUF9lqU></div>
